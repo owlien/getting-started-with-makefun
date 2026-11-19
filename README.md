@@ -50,6 +50,8 @@ Once scoring concludes and your entry places in the winning ranks, the stage adv
 
 ## Pro Tips for Competitors
 
+* **Read the RULES File:** Always inspect the bounty's `RULES` file (or workspace guidelines) before writing any code to ensure compliance with specific constraints, test frameworks, or submission formats.
+* **Ensure Determinism:** Design your code and scripts to be deterministic so that repeated runs, evaluations, and automated tests produce identical, reproducible output.
 * **Preserve Session Transcripts:** Always save and format your AI session transcripts cleanly. Missing or incomplete transcripts can disqualify otherwise functional code.
 * **Read the Rubric:** Pay meticulous attention to specific output formats, test coverage requirements, and constraints specified in the bounty prompt.
 * **Test Early, Submit Early:** Avoid last-minute network congestion or git tag issues by submitting an initial draft well before the deadline. You can update submissions during the Open/Checked stages.
